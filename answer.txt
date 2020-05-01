@@ -1,5 +1,4 @@
-<<<<<<< HEAD
+
 Answer : Chicken
-=======
+
 Reason : Since the chicken's egg is made up of an element which is exclusively made in chicken's ovaries and we are talking about chicken's egg and not a random egg.
->>>>>>> reason
