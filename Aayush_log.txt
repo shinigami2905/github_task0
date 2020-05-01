@@ -1,0 +1,7 @@
+a)git clone // for creating a clone
+b)git checkout -b Aayush_Meshram //to create branch(-b for branch, checkout to change the current working branch)
+c)git add //to add the text files
+d)git commit -m "message" //to commit so the track can be kept
+e)git merge //to merge branches
+f)git pull // to get updates from master
+g)git push origin [commit message] // push it to our remote repository
